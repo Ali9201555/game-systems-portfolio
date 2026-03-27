@@ -21,6 +21,9 @@ A gameplay system demonstrating object interaction, trigger events, and responsi
 ### Movement and Camera System
 A prototype built to demonstrate responsive player movement, camera control, and smooth gameplay navigation.
 
+## Portfolio Goal
+This repository highlights my work in modular gameplay systems and interactive prototypes, with a focus on practical game development skills, clean logic, and scalable design.
+
 
 ## Contact
 GitHub: [Ali9201555](https://github.com/Ali9201555)
