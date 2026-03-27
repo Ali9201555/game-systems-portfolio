@@ -13,13 +13,14 @@ I am an aspiring game developer focused on gameplay systems, interactive mechani
 ## Projects
 
 ### Environment Prototype
-A real time environment prototype focused on scene composition, lighting, atmosphere, and spatial design.
+A real time environment prototype focused on scene composition, lighting, atmosphere, and spatial storytelling.
 
 ### Interaction System
-A gameplay interaction prototype demonstrating triggered actions, object responses, and event based logic.
+A gameplay system demonstrating object interaction, trigger events, and responsive in game logic.
 
 ### Movement and Camera System
-A prototype focused on responsive player movement and camera control for a smooth gameplay experience.
+A prototype built to demonstrate responsive player movement, camera control, and smooth gameplay navigation.
+
 
 ## Contact
 GitHub: [Ali9201555](https://github.com/Ali9201555)
